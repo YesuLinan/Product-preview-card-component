@@ -65,7 +65,7 @@ body {
 
 
 button {
-  background: #1A4032;
+  background: #3D8168;
   color: aliceblue;
   width: 14.75rem;
   height: 3rem;
@@ -75,6 +75,10 @@ button {
   cursor: pointer;
   font-size: 0.875rem;
   font-family: "Montserrat";
+}
+
+button:hover{
+  background: #1A4032;
 }
 
 .price {
